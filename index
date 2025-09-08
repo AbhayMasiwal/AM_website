@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Abhay Masiwal | Hydrologist</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header / Hero Section -->
+  <header>
+    <h1>Abhay Masiwal</h1>
+    <p>Hydrologist | Water Resources Engineer | Remote Sensing Specialist</p>
+    <a href="resume.pdf" class="btn" target="_blank">📄 Download Resume</a>
+    <a href="#projects" class="btn">📌 View Projects</a>
+  </header>
+
+  <!-- About Section -->
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I am a Hydrologist & Water Resources Engineer with 7+ years of experience in hydrodynamic modelling, 
+      satellite remote sensing, and GIS analytics. Currently working as a Research Scientist at IIRS-ISRO, 
+      I have delivered flood forecasting, water quality prediction, and glacial lake risk assessments in 
+      collaboration with ISRO, NMCG, and NDMA.
+    </p>
+  </section>
+
+  <!-- Services Section -->
+  <section id="services">
+    <h2>Services</h2>
+    <ul>
+      <li>🌊 Hydrodynamic & Flood Modelling</li>
+      <li>💧 Water Quality Prediction (ML + Remote Sensing)</li>
+      <li>🗺️ GIS & Remote Sensing Analysis</li>
+    </ul>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Flood Modelling for Ganga River</h3>
+      <p>Developed hydrodynamic model for a 500 km stretch, supporting disaster preparedness for 12M+ people.</p>
+    </div>
+    <div class="project">
+      <h3>Glacial Lake Outburst Flood (GLOF) Risk Assessment</h3>
+      <p>Field visits to Panikhar & Vasudhara lakes, dam break analysis. Featured in Times of India.</p>
+    </div>
+    <div class="project">
+      <h3>Machine Learning for Water Quality</h3>
+      <p>Built ML models predicting Dissolved Oxygen and Turbidity at 6-day intervals using satellite data.</p>
+    </div>
+    <div class="project">
+      <h3>Bathymetric Surveys</h3>
+      <p>Conducted surveys of Panikhar & Vasudhara lakes for NDMA, supporting disaster risk mitigation.</p>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>📧 <a href="mailto:masiwalabhay@gmail.com">masiwalabhay@gmail.com</a></p>
+    <p>🔗 <a href="https://linkedin.com/in/abhay-masiwal-0b279a97" target="_blank">LinkedIn</a></p>
+    <p>🌐 <a href="https://github.com/abhaymasiwal" target="_blank">GitHub</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Abhay Masiwal | Portfolio</p>
+  </footer>
+</body>
+</html>
